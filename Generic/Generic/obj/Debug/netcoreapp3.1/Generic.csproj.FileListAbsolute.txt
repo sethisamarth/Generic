@@ -11,3 +11,4 @@ C:\Users\Lenovo\Desktop\Generic Concepts\Generic\Generic\obj\Debug\netcoreapp3.1
 C:\Users\Lenovo\Desktop\Generic Concepts\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.dll
 C:\Users\Lenovo\Desktop\Generic Concepts\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.pdb
 C:\Users\Lenovo\Desktop\Generic Concepts\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Generic Concepts\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.AssemblyReference.cache
